@@ -1,7 +1,7 @@
 # My Experience & Tips for Taking Azure DP 600 - Fabric Analytics Engineer Associate Exam
 
 - **Created:** February 17, 2024 1:41 AM
-- **Author:**  [Ndamulelo Nemakhavhani](https://www.linkedin.com/in/ndamulelonemakhavhani/)
+- **Author:**  [Shahed Shaikh](https://www.linkedin.com/in/shahed-shaikh-4608a110b/)
 
 
 In this guide, I will share my experience of taking the [Microsoft DP-600 beta exam](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-600/) and provide some useful tips to help you prepare for it. Before we proceed further, I would like to explain why I believe this exam is worth taking for any *Data* or *Engineering* professional looking to stay ahead of the competition.
